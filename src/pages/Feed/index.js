@@ -1,6 +1,6 @@
 import React from 'react'
 import { View } from 'react-native'
-import { Post, PostHeader } from './styles'
+import { Post, PostHeader, Avatar, Name, PostBody, PostBodyImage, PostFooter, PostFooterDescription, Description } from './styles'
 
 export default function Feed() {
     return (

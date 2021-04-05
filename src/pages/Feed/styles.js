@@ -9,7 +9,7 @@ export const PostHeader = Styled.View`
 `;
 
 export const Avatar = Styled.Image`
-
+    width: 100%;
 `;
 
 
