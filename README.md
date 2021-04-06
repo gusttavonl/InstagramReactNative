@@ -6,7 +6,7 @@
  Instagram React Native Clone
 </h1>
 
-Clone da parte visual da home do Instagrapp App com REACT NATIVE.
+Clone da parte visual da home do Instagrapp App com REACT NATIVE e Styled Components.
 
 🚧 **Ainda em Construção** 🚧
 
